@@ -9,6 +9,12 @@
 1. [Финальный проект](YandexPracticumDS/Final_project_telecom.ipynb)
 2. [Диплом](YandexPracticumDS/Diplom.pdf)
 
+### Занятия с ментором
+1. [Градиентный спуск](Mentor/GradientDescent.ipynb)
+2. [Реализация KNN](Mentor/KNN.ipyn)
+3. [Групповой импутер](Mentor/MeanGroupImputer.ipynb)
+4. [Редкие категории](Mentor/RareCategories.ipynb)
+   
 ### Яндекс.Практикум (Инженер данных)
 1. Финальный проект
 2. Диплом
