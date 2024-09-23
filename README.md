@@ -3,4 +3,4 @@
 
 ### ИТМО
 1. [Финальный проект](subpro/subsubpro/subsubtext.md)
-2. [Диплом](ITMO/diplom.pdf)
+2. [Диплом](ITMO/ИТМО.pdf)
