@@ -1,1 +1,6 @@
-# DS_Education
+# Учебные проекты
+Проекты, выполненные в рамках обучения.
+
+### ИТМО
+1. [Финальный проект](subpro/subsubpro/subsubtext.md)
+2. [Диплом](ITMO/diplom.pdf)
