@@ -11,7 +11,7 @@
 
 ### Занятия с ментором
 1. [Градиентный спуск](Mentor/GradientDescent.ipynb)
-2. [Реализация KNN](Mentor/KNN.ipyn)
+2. [Реализация KNN](Mentor/KNN.ipynb)
 3. [Групповой импутер](Mentor/MeanGroupImputer.ipynb)
 4. [Редкие категории](Mentor/RareCategories.ipynb)
    
